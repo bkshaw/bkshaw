@@ -3,11 +3,11 @@
 AI Engineer at Valuence Technologies Japan | M.Tech in Signal Processing and Machine Learning from IIT Guwahati
 
 ## About Me
-I'm an AI Engineer at Valuence Technologies Japan. I completed my master's degree at the esteemed Indian Institute of Technology Guwahati in Signal Processing and Machine Learning (SPML). With over 4 years of experience in software engineering and machine learning, I'm passionate about leveraging technology to solve real-world problems.
+I'm an AI Engineer at Valuence Technologies Japan. I completed my master's at the esteemed Indian Institute of Technology Guwahati in Signal Processing and Machine Learning (SPML). With over 4 years of experience in software engineering and machine learning, I'm passionate about leveraging technology to solve real-world problems.
 
 ## Current Projects
 - **LLM Scrapper**: Building an LLM agent leveraging open-sourced LLMs to scrap target information from various e-commerce websites in Japan with non-uniform HTML architectures.
-- **Auto-assessing-platform**: Developing a platform to identify and classify luxury products with high accuracy with little to no human involvement.
+- **Auto-assessing-platform**: Developing a platform to identify and classify luxury products with high accuracy with little to no human involvement in VT.
 
 ## Interests and Expertise
 - Machine Learning and AI
@@ -24,7 +24,7 @@ I'm an AI Engineer at Valuence Technologies Japan. I completed my master's degre
 ## Additional Information
 
 - Open to collaborations on ML, LLMs fine-tuning, and prompt engineering projects.
-- Actively seeking contributors for some of my projects.
+- Open to job offers if you feel that I am a good fit for the role.
 
 <!--
 **bkshaw/bkshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
